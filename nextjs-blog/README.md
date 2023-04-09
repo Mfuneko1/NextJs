@@ -4,4 +4,5 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 /* 
  1. Creating an application using Next JS
  2. No special BE services have been used here.
+ 3. Added functionality for retrieving data from local file
  */
